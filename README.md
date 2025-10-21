@@ -1,5 +1,5 @@
 Hi there, I'm Palak!
-🌟 Building me | 352.9k+ Impressions | 4X Top Voice | SIH Prelims Winner | GSSOC'24 Contributor | 3X AWS Badges | Tech Masters India | Deputy Head, Marketing @ IAESTE LC JECRC
+🌟 Building me | 352.9k+ Impressions | 4X Top Voice | SIH Prelims Winner | GSSOC'24 Contributor | 3X AWS Badges | Tech Masters India |Vice President @ IAESTE LC JECRC
 
 🚀 About Me
 I’m a passionate Computer Science student at JECRC University, currently exploring the infinite possibilities of tech 🌐.
