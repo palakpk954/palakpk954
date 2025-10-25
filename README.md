@@ -5,7 +5,7 @@ Hi there, I'm Palak!
 I’m a passionate Computer Science student at JECRC University, currently exploring the infinite possibilities of tech 🌐.
 From cloud computing and web development to content creation and community building, I love learning, creating, and solving real-world problems through technology.
 
-🔹 2nd Year CSE-AWS'27
+🔹 3rd Year CSE-AWS'27
 🔹 AWS Cloud Clubs Co-Head
 🔹 Content Lead at HackerEarth JECRC University
 🔹 Freelancer: Resume writing, LinkedIn Optimization, Website Designing
