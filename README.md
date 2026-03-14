@@ -21,10 +21,47 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 * 💻 Solved **300+ Data Structures and Algorithms problems using Java**
 * 🌍 Open Source Contributor at **GSSOC'24** and **SSOC'25**
 * 🏆 **Smart India Hackathon Prelims Rank 2**
-* 🚗 Co-founder of **CarDho Startup**, incubated at JECRC Innovation Centre
+* 🚗 Co-founder of **CarDho Startup**, incubated at JECRC Incubation Centre
 * 📚 Currently exploring **system design, distributed systems, and cloud architecture**
 
 ---
+## 🏅 Certifications
+
+<p align="center">
+
+<a href="https://www.credly.com/users/palak-kumari.2a51ebf0">
+<img src="https://img.shields.io/badge/Credly-View%20My%20Badges-orange?logo=credly&logoColor=white&style=for-the-badge">
+</a>
+
+<a href="https://www.credly.com/users/palak-kumari.2a51ebf0">
+<img src="https://img.shields.io/badge/AWS-Certifications-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge">
+</a>
+
+<a href="https://www.credly.com/users/palak-kumari.2a51ebf0">
+<img src="https://img.shields.io/badge/Microsoft-Certifications-0078D4?logo=microsoft&logoColor=white&style=for-the-badge">
+</a>
+
+</p>
+
+<p align="center">
+Click the badges to view verified certifications and achievements.
+</p>
+
+---
+
+## 🎓 Microsoft Learn Profile
+
+<p align="center">
+
+<a href="https://learn.microsoft.com/en-us/users/palakkumari-1971/">
+<img src="https://img.shields.io/badge/Microsoft-Learn_Profile-0078D4?logo=microsoft&logoColor=white&style=for-the-badge">
+</a>
+
+</p>
+
+<p align="center">
+View my Microsoft learning achievements, modules, and certifications.
+</p>
 
 ## 🧠 LeetCode Stats
 
