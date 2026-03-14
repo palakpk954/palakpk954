@@ -39,6 +39,18 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 </p>
 
 ---
+## 📚 GeeksforGeeks Stats
+
+<p align="center">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=palakkumart112">
+</p>
+
+<p align="center">
+<a href="https://www.geeksforgeeks.org/profile/palakkumart112">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Visit_Profile-darkgreen?logo=geeksforgeeks&logoColor=white">
+</a>
+</p>
+
 
 ## ⚡ Tech Stack
 
