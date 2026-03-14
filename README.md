@@ -1,42 +1,84 @@
-Hi there, I'm Palak!
-🌟 Building me | 352.9k+ Impressions | 4X Top Voice | SIH Prelims Winner | GSSOC'24 Contributor | 3X AWS Badges | Tech Masters India |Vice President @ IAESTE LC JECRC
+# Hi, I'm Palak Kumari 👋
 
-🚀 About Me
-I’m a passionate Computer Science student at JECRC University, currently exploring the infinite possibilities of tech 🌐.
-From cloud computing and web development to content creation and community building, I love learning, creating, and solving real-world problems through technology.
+💻 **Cloud & Backend Developer**
+🎓 B.Tech CSE (Cloud Computing – AWS) | JECRC University
+🚀 Passionate about building scalable software and cloud solutions
 
-🔹 3rd Year CSE-AWS'27
-🔹 AWS Cloud Clubs Co-Head
-🔹 Content Lead at HackerEarth JECRC University
-🔹 Freelancer: Resume writing, LinkedIn Optimization, Website Designing
-🔹 Organizer of a National-level Hackathon
-🔹 Poet, Photographer, Mandala Artist, and Chess Enthusiast
+---
 
-🛠️ Skills
-Languages: Python | C++ | MySQL
-Cloud: AWS (Certified with 3 badges)
-Web Development: HTML, CSS, JavaScript | WordPress
-Data Structures & Algorithms (DSA)
-Tools & Frameworks: GitHub, Canva, Figma
+## 🚀 Tech Stack
 
-Other Skills: SEO, Content Writing, LinkedIn Marketing, Resume Building
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,aws,mysql,git,github,docker,opencv,keras" />
+</p>
 
-📈 Currently Working On
-Growing my knowledge in Cloud Computing (AWS) ☁️
-Deep diving into DSA and Problem Solving 🔍
-Designing beautiful and functional websites 🖥️
-Helping peers optimize their professional profiles (LinkedIn, Resume Building)
+---
 
-🌟 Achievements
-🏆 SIH Prelims Winner
-🏅 3X AWS Badges Holder
-🎖️ Top Voice x4 on LinkedIn
-✍️ GSSOC'24 Contributor
-🚀 352.9k+ Impressions on LinkedIn
+## 📊 GitHub Stats
 
-📫 Let's Connect!
-📩 LinkedIn
-📧 Email: palakpk954@gmail.com
-🌐 Portfolio Website (Coming Soon)
+![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakpk954\&show_icons=true\&theme=tokyonight)
 
-"Growth isn’t about doing more; it’s about doing the right things in the right order for the right people."
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palakpk954\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🏆 Achievements
+
+* 🥈 **Smart India Hackathon Prelims – Rank 2**
+* ☁️ **AWS Certified – Cloud Practitioner**
+* 💻 **300+ Data Structures & Algorithms Problems Solved**
+* 🌍 Open Source Contributor – GSSOC'24 & SSOC'25
+* 🚗 Co-founder – **CarDho Startup** (₹2L seed funding)
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Hand Gesture Recognition with AWS Auto Scaling
+
+Python • OpenCV • Keras • AWS EC2 • Boto3
+Built a CNN gesture recognition system integrated with AWS auto scaling to dynamically provision servers under load.
+
+🔗 https://github.com/palakpk954/AWS-automation
+
+---
+
+### ✋ Indian Sign Language Real-Time Converter
+
+Python • OpenCV • Keras
+Developed a real-time ISL gesture-to-text converter with 67% model accuracy.
+
+🔗 https://github.com/palakpk954/ISL-Converter-
+
+---
+
+### 🚚 Transport Management System
+
+Python • MySQL • Pandas • Matplotlib
+End-to-end booking and delivery tracking system with SQL reporting and analytics.
+
+🔗 https://github.com/palakpk954/transport_management
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=palakpk954\&theme=tokyo-night)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=palakpk954)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/palak-kumari-b855a521b
+* GitHub: https://github.com/palakpk954
+* Email: [palakkumari1232604@gmail.com](mailto:palakkumari1232604@gmail.com)
