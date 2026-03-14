@@ -1,84 +1,60 @@
-# Hi, I'm Palak Kumari 👋
+<h1 align="center">Hi 👋 I'm Palak Kumari</h1>
 
-💻 **Cloud & Backend Developer**
-🎓 B.Tech CSE (Cloud Computing – AWS) | JECRC University
-🚀 Passionate about building scalable software and cloud solutions
+<p align="center">
+Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
+</p>
 
----
-
-## 🚀 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,aws,mysql,git,github,docker,opencv,keras" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F2&center=true&vCenter=true&width=600&lines=Building+Cloud+and+Backend+Systems;Java+•+Python+•+AWS+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 About Me
 
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakpk954\&show_icons=true\&theme=tokyonight)
-
----
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palakpk954\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 Achievements
-
-* 🥈 **Smart India Hackathon Prelims – Rank 2**
-* ☁️ **AWS Certified – Cloud Practitioner**
-* 💻 **300+ Data Structures & Algorithms Problems Solved**
-* 🌍 Open Source Contributor – GSSOC'24 & SSOC'25
-* 🚗 Co-founder – **CarDho Startup** (₹2L seed funding)
+* 🎓 Computer Science student at **JECRC University**
+* ☁️ Focused on **Cloud Computing and Backend Development**
+* 💻 Solved **300+ Data Structures and Algorithms problems**
+* 🏆 **Smart India Hackathon Prelims Rank 2**
+* 🌍 Open Source Contributor at **GSSOC'24 and SSOC'25**
+* 🚗 Co-founder of **CarDho Startup**
 
 ---
 
-## 📌 Featured Projects
+### ⚡ Tech Stack
 
-### 🤖 Hand Gesture Recognition with AWS Auto Scaling
-
-Python • OpenCV • Keras • AWS EC2 • Boto3
-Built a CNN gesture recognition system integrated with AWS auto scaling to dynamically provision servers under load.
-
-🔗 https://github.com/palakpk954/AWS-automation
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,aws,mysql,git,github,opencv,keras,docker,vscode" />
+</p>
 
 ---
 
-### ✋ Indian Sign Language Real-Time Converter
+### 📈 Contribution Activity
 
-Python • OpenCV • Keras
-Developed a real-time ISL gesture-to-text converter with 67% model accuracy.
-
-🔗 https://github.com/palakpk954/ISL-Converter-
-
----
-
-### 🚚 Transport Management System
-
-Python • MySQL • Pandas • Matplotlib
-End-to-end booking and delivery tracking system with SQL reporting and analytics.
-
-🔗 https://github.com/palakpk954/transport_management
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palakpk954&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+### 🐍 Contribution Snake
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=palakpk954\&theme=tokyo-night)
-
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=palakpk954)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/palak-kumari-b855a521b
-* GitHub: https://github.com/palakpk954
-* Email: [palakkumari1232604@gmail.com](mailto:palakkumari1232604@gmail.com)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/palak-kumari-b855a521b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/palakpk954">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
