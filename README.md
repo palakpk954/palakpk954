@@ -58,6 +58,16 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 <img src="https://skillicons.dev/icons?i=java,python,cpp,aws,mysql,git,github,opencv,keras,docker,vscode">
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=palakpk954&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakpk954&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ### Languages
 
 Java • Python • C++ • SQL • C#
