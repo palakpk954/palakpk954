@@ -5,41 +5,37 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Building+Cloud+and+Backend+Systems;Java+•+Python+•+AWS+Developer;Open+Source+Contributor;Solving+Real+World+Problems+with+Code;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Building+Cloud+and+Backend+Systems;Java+•+Python+•+AWS+Developer;Open+Source+Contributor;Solving+Real+World+Problems+with+Code;Always+Learning+New+Technologies">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=palakpk954&color=blue&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=palakpk954&color=blue&style=flat-square">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science student at **JECRC University**, specializing in **Cloud Computing (AWS)**
+* 🎓 B.Tech CSE student at **JECRC University**, specializing in **Cloud Computing (AWS)**
 * ☁️ Interested in building **scalable cloud infrastructure and backend systems**
 * 💻 Solved **300+ Data Structures and Algorithms problems using Java**
 * 🌍 Open Source Contributor at **GSSOC'24** and **SSOC'25**
 * 🏆 **Smart India Hackathon Prelims Rank 2**
-* 🚗 Co founder of **CarDho Startup**, incubated at JECRC Innovation Centre
+* 🚗 Co-founder of **CarDho Startup**, incubated at JECRC Innovation Centre
 * 📚 Currently exploring **system design, distributed systems, and cloud architecture**
 
 ---
 
-## 🧠 DSA & LeetCode
+## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcode-stats-six.vercel.app/api?username=aXaNdhHIvQ&theme=dark&hide_border=true">
+<img src="https://leetcard.jacoblin.cool/aXaNdhHIvQ?theme=dark&font=Karma">
 </p>
 
 <p align="center">
 <a href="https://leetcode.com/u/aXaNdhHIvQ/">
-<img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-orange?logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?logo=leetcode&logoColor=white">
 </a>
-</p>
-
-<p align="center">
-Practicing Data Structures and Algorithms regularly on LeetCode
 </p>
 
 ---
@@ -70,13 +66,13 @@ Git • GitHub • Jupyter Notebook • Excel • Matplotlib
 
 ## 📌 Featured Projects
 
-### 🤖 Hand Gesture Recognition with AWS Auto Scaling
+### 🤖 Hand Gesture Recognition with AWS Automation
 
 Python • OpenCV • Keras • AWS EC2 • Boto3
 
 * Developed a CNN based gesture recognition system
-* Integrated AWS auto scaling to dynamically provision servers under load
-* Reduced processing latency by optimizing cloud resource allocation
+* Integrated gesture detection with AWS automation
+* Automatically launches or terminates EC2 instances based on hand gestures
 
 🔗 https://github.com/palakpk954/AWS-automation
 
@@ -87,7 +83,7 @@ Python • OpenCV • Keras • AWS EC2 • Boto3
 Python • OpenCV • Keras
 
 * Built a real time gesture to text converter for accessibility applications
-* Achieved **67 percent model accuracy** using deep learning techniques
+* Achieved **67 percent model accuracy**
 * Project recognized in **Smart India Hackathon Prelims**
 
 🔗 https://github.com/palakpk954/ISL-Converter-
@@ -99,32 +95,16 @@ Python • OpenCV • Keras
 Python • MySQL • Pandas • Matplotlib
 
 * Developed a delivery tracking and booking platform
-* Implemented SQL analytics and data visualization for operational insights
+* Implemented SQL analytics and data visualization
 
 🔗 https://github.com/palakpk954/transport_management
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=palakpk954&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/palakpk954/palakpk954/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 📊 3D Contribution Graph
-
-<p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
 ---
