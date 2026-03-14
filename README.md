@@ -5,19 +5,20 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F2&center=true&vCenter=true&width=600&lines=Building+Cloud+and+Backend+Systems;Java+•+Python+•+AWS+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Building+Cloud+and+Backend+Systems;Java+•+Python+•+AWS+Developer;Open+Source+Contributor;Solving+Real+World+Problems+with+Code;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 Computer Science student at **JECRC University**
-* ☁️ Focused on **Cloud Computing and Backend Development**
-* 💻 Solved **300+ Data Structures and Algorithms problems**
+* 🎓 Computer Science student at **JECRC University**, specializing in **Cloud Computing (AWS)**
+* ☁️ Interested in building **scalable cloud infrastructure and backend systems**
+* 💻 Solved **300+ Data Structures and Algorithms problems** using Java
+* 🌍 Open Source Contributor at **GSSOC'24** and **SSOC'25**
 * 🏆 **Smart India Hackathon Prelims Rank 2**
-* 🌍 Open Source Contributor at **GSSOC'24 and SSOC'25**
-* 🚗 Co-founder of **CarDho Startup**
+* 🚗 Co-founder of **CarDho Startup**, incubated at JECRC Innovation Centre
+* 📚 Currently exploring **system design, distributed systems, and cloud architecture**
 
 ---
 
@@ -26,6 +27,56 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,aws,mysql,git,github,opencv,keras,docker,vscode" />
 </p>
+
+#### Languages
+
+Java • Python • C++ • SQL • C#
+
+#### Backend & Development
+
+.NET Framework • REST APIs • Backend Development • MVC Architecture
+
+#### Cloud & Machine Learning
+
+AWS (EC2, VPC, Load Balancer) • OpenCV • Keras • Pandas • NumPy
+
+#### Tools
+
+Git • GitHub • Jupyter Notebook • Excel • Matplotlib
+
+---
+
+### 📌 Featured Projects
+
+**🤖 Hand Gesture Recognition with AWS Auto Scaling**
+Python • OpenCV • Keras • AWS EC2 • Boto3
+
+* Developed a CNN-based gesture recognition system
+* Integrated AWS auto scaling to dynamically provision servers under load
+* Reduced processing latency by optimizing cloud resource allocation
+
+🔗 https://github.com/palakpk954/AWS-automation
+
+---
+
+**✋ Indian Sign Language Real-Time Converter**
+Python • OpenCV • Keras
+
+* Built a real-time gesture-to-text converter for accessibility applications
+* Achieved **67 percent model accuracy** using deep learning techniques
+* Project recognized in **Smart India Hackathon Prelims**
+
+🔗 https://github.com/palakpk954/ISL-Converter-
+
+---
+
+**🚚 Transport Management System**
+Python • MySQL • Pandas • Matplotlib
+
+* Developed a delivery tracking and booking platform
+* Implemented SQL analytics and data visualization for operational insights
+
+🔗 https://github.com/palakpk954/transport_management
 
 ---
 
@@ -57,4 +108,10 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="mailto:palakkumari1232604@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40"/>
+</a>
+
 </p>
+
+📧 **Email:** [palakkumari1232604@gmail.com](mailto:palakkumari1232604@gmail.com)
