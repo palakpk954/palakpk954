@@ -21,7 +21,6 @@ Cloud & Backend Developer • B.Tech CSE (Cloud Computing - AWS)
 * 💻 Solved **300+ Data Structures and Algorithms problems using Java**
 * 🌍 Open Source Contributor at **GSSOC'24** and **SSOC'25**
 * 🏆 **Smart India Hackathon Prelims Rank 2**
-* 🚗 Co-founder of **CarDho Startup**, incubated at JECRC Incubation Centre
 * 📚 Currently exploring **system design, distributed systems, and cloud architecture**
 
 ---
