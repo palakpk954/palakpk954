@@ -1,165 +1,51 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Palak%20Kumari&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Cloud%20Engineer%20%7C%20Backend%20Builder%20%7C%20Community%20Lead&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Palak Kumari banner"/>
-
-<a href="https://palakkumari-er.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=Incoming+R%26D+Engineer+%40+HPE+%F0%9F%9A%80;AWS+x3+%7C+7x+Certified+%E2%98%81%EF%B8%8F;SIH+2nd+Place+Winner+%F0%9F%8F%86;839%2B+DSA+Problems+Solved+%F0%9F%A7%A9;VP+%40+IAESTE+%E2%80%94+Leading+46%2B+students+%F0%9F%8C%8D" alt="Typing animation"/>
-</a>
+<img src="assets/header.svg" width="100%" alt="Palak Kumari - Cloud Engineer, Backend Builder, Community Lead"/>
 
 <br/>
 
-<a href="https://palakkumari-er.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/palakkumari0604/"><img src="https://img.shields.io/badge/LINKEDIN-11.8k_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://codolio.com/profile/Palak954"><img src="https://img.shields.io/badge/CODOLIO-839_Solved-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="mailto:palakkumari1232604@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://palakkumari-er.netlify.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Enter_the_Matrix-0EA5E9?style=for-the-badge&labelColor=0b1020"/></a>
+<a href="https://www.linkedin.com/in/palakkumari0604/"><img src="https://img.shields.io/badge/💼_LINKEDIN-11.8k_Followers-0077B5?style=for-the-badge&labelColor=0b1020"/></a>
+<a href="https://codolio.com/profile/Palak954"><img src="https://img.shields.io/badge/🧩_CODOLIO-839_Solved-F59E0B?style=for-the-badge&labelColor=0b1020"/></a>
+<a href="mailto:palakkumari1232604@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-Ping_Me-EA4335?style=for-the-badge&labelColor=0b1020"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=palakpk954&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=760&height=40&lines=%24+aws+ec2+describe-instances+--status+running...;%24+git+commit+-m+%22shipped+something+cool%22;%24+java+-version+%E2%86%92+openjdk+21+%E2%9C%94;%24+sudo+hire+palak+%E2%86%92+permission+granted+%F0%9F%8E%89" alt="terminal animation"/>
+
+<img src="https://komarev.com/ghpvc/?username=palakpk954&label=Visitors&color=7C3AED&style=flat-square" alt="Profile views"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
-<br/>
-
-<!-- ===================== WHOAMI ===================== -->
-## 👩‍💻 `~/whoami`
-
-```bash
-palak@portfolio:~$ whoami
-> Palak Kumari, final-year CSE (Cloud Computing, AWS) @ JECRC University | CGPA 8.36
-
-palak@portfolio:~$ cat current_status.txt
-> 🏢 Joining Hewlett Packard Enterprise (HPE) R&D, Bengaluru
-> 🏆 Smart India Hackathon: 2nd place among 300+ national teams
-> 👑 Vice President, IAESTE LC JECRC (46+ members, 29 global interns hosted)
-> 🌍 Shipped production code for teams in Tanzania and Ghana
-
-palak@portfolio:~$ ls skills/
-> cloud/  backend/  distributed-systems/  dsa/  computer-vision/  leadership/
-
-palak@portfolio:~$ echo $MOTTO
-> Build with rigor. Lead with empathy. Never stop after a rejection.
-```
-
-<div align="center">
-
-| 🎯 **17.5 LPA** | 📜 **7x** | 🧩 **839+** | 👥 **46+** | 📣 **177K+** |
-|:---:|:---:|:---:|:---:|:---:|
-| HPE R&D Offer | Industry Certs | DSA Problems | Members Led | Content Impressions |
-
-</div>
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,sql&perline=7" alt="Languages"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,react,vite,nodejs&perline=7" alt="Cloud and tools"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,django,mysql,mongodb,tensorflow,opencv&perline=6" alt="Backend, data and AI"/>
-
-</div>
-
-<details>
-<summary><b>☁️ Cloud and DevOps</b> (click to expand)</summary>
-<br/>
-
-`AWS EC2` · `Auto Scaling Groups` · `S3` · `IAM` · `Lambda` · `CloudWatch` · `Boto3 SDK` · `CI/CD` · `Cloud Security`
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend and Databases</b></summary>
-<br/>
-
-`Java (SE 21)` · `C# .NET MVC` · `Django` · `Node.js / Express` · `REST APIs` · `SQL Server` · `MySQL` · `MongoDB`
-
-</details>
-
-<details>
-<summary><b>🤖 AI, Data and Platforms</b></summary>
-<br/>
-
-`OpenCV` · `Keras / CNNs` · `Pandas` · `Matplotlib` · `Microsoft Fabric` · `ServiceNow CIS` · `JNCIA-Junos`
-
-</details>
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
+## 🎮 Player Card
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🤟 ISL Real-Time Converter
-`🏆 SIH 2nd Prize`
-
-Translates Indian Sign Language finger-spelling into **text and speech** in real time.
-
-- 🎯 **94.8%** test accuracy (26 classes)
-- ⚡ **30+ FPS** on edge devices
-- 🧠 Custom CNN + OpenCV pipeline
-
-`Python` `OpenCV` `Keras`
-
-[**View Code →**](https://github.com/palakpk954/ISL-Converter-)
+```yaml
+PLAYER:     Palak Kumari
+CLASS:      Cloud Engineer / Backend Mage
+GUILD:      IAESTE LC JECRC (Vice President)
+HOME BASE:  JECRC University, Jaipur
+NEXT ZONE:  HPE R&D, Bengaluru
+LOADOUT:    Java · AWS · Python · .NET
+SIDE QUEST: Open source (GSSoC'24, SSoC'25)
+STATUS:     🟢 Open to collabs and talks
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### ☁️ AWS Auto-Scaling Inference
-`⚙️ Cloud Automation`
-
-Boto3 automation that scales EC2 inference workers with incoming video load.
-
-- 💸 **65%** idle compute cost reduction
-- 🛡️ **99.9%** uptime with failover
-- 🔐 IAM least-privilege design
-
-`AWS` `Boto3` `CloudWatch`
-
-[**View Code →**](https://github.com/palakpk954/AWS-automation)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Placement Helper: "You Can"
-`🌐 Live App`
-
-Interview-prep platform for engineering students: Java, DSA, OS, DBMS and System Design.
-
-- 👥 Used by hundreds of students
-- 📚 Company-wise prep guides
-- 🌙 Mobile-first with dark mode
-
-`JavaScript` `REST APIs` `Render`
-
-[**Live Demo →**](https://placement-helper-you-can-1.onrender.com/) · [**Code →**](https://github.com/palakpk954/Placement_Helper-You_Can-)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌧️ Landslide Early-Warning Platform
-`🥇 Regional Hackathon Top 10`
-
-Geo-spatial dashboard that triggers evacuation alerts from rainfall thresholds.
-
-- 🗺️ Leaflet + GeoJSON risk overlays
-- 📶 Works in low-bandwidth zones
-- 🔄 Offline caching via service workers
-
-`JavaScript` `Leaflet` `PWA`
-
-[**View Code →**](https://github.com/palakpk954/regional-risk-project)
+```text
+❤️ HP  ██████████ CGPA 8.36/10
+⚡ MP  ██████████ 7 certifications
+🧠 INT █████████░ 839+ DSA solved
+👑 CHA █████████░ 46+ members led
+🔥 STR ████████░░ 80-day streak
+```
 
 </td>
 </tr>
@@ -167,86 +53,199 @@ Geo-spatial dashboard that triggers evacuation alerts from rainfall thresholds.
 
 <div align="center">
 
-🚚 **Also:** [Transport and Logistics Management System](https://github.com/palakpk954/transport_management) · Django · ACID bookings · dispatch scheduling · audit logging
+| 💰 **17.5 LPA** | 📜 **7x** | 🧩 **839+** | 👥 **46+** | 🌍 **3 continents** | 📣 **177K+** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| HPE R&D Offer | Certifications | DSA Problems | Members Led | Remote Teams | Content Reach |
 
 </div>
 
-### 🧬 How the AWS auto-scaling project works
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## ⚔️ Skill Tree
+
+<div align="center">
+
+<img src="assets/skills.svg" width="85%" alt="Skill levels: Java and DSA 92%, AWS and Cloud 90%, Backend 88%, Computer Vision and AI 84%"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,sql,aws,linux,git,github&perline=11" alt="Core skills"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,django,nodejs,react,vite,mysql,mongodb,tensorflow,opencv&perline=9" alt="Frameworks and data"/>
+
+</div>
+
+<details>
+<summary><b>🎒 Open full inventory</b></summary>
+<br/>
+
+| Slot | Items |
+|---|---|
+| ☁️ **Cloud** | `EC2` `Auto Scaling` `S3` `IAM` `Lambda` `CloudWatch` `Boto3` `CI/CD` |
+| ⚙️ **Backend** | `Java SE 21` `C# .NET MVC` `Django` `Node/Express` `REST APIs` |
+| 🗄️ **Data** | `SQL Server` `MySQL` `MongoDB` `Pandas` `Matplotlib` `Microsoft Fabric` |
+| 🤖 **AI / Vision** | `OpenCV` `Keras` `CNNs` `TensorFlow` |
+| 🌐 **Other** | `ServiceNow CIS` `JNCIA-Junos` `Leaflet` `PWA` |
+
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🗺️ Quest Log
+
+```mermaid
+flowchart LR
+    S(["🎬 START<br/>2023"]) --> Q1["🌱 Chapter 1<br/>Explore<br/>Interns, GDSC, AWS Club"]
+    Q1 --> Q2["🔨 Chapter 2<br/>Build and Ship<br/>SIH 2nd, NECTA, Ghana"]
+    Q2 --> Q3["👑 Chapter 3<br/>Lead at Scale<br/>VP IAESTE, 7 Certs"]
+    Q3 --> B(["🏢 NEXT LEVEL<br/>HPE R&D"])
+    style S fill:#0f172a,color:#fff,stroke:#22d3ee
+    style Q1 fill:#0EA5E9,color:#fff,stroke:#0369A1
+    style Q2 fill:#7C3AED,color:#fff,stroke:#5B21B6
+    style Q3 fill:#DB2777,color:#fff,stroke:#9D174D
+    style B fill:#F59E0B,color:#fff,stroke:#B45309
+```
+
+<details>
+<summary><b>📜 Active quests: work experience</b></summary>
+<br/>
+
+| ⚔️ Quest | 📍 Realm | 🏅 Loot |
+|---|---|---|
+| **Full Stack Dev Intern** | NECTA, Tanzania 🇹🇿 | Rebuilt .NET billing: **-40% invoice time**, fixed **5,000+ records** |
+| **Backend and Data Intern** | AkooBooks Audio, Ghana 🇬🇭 | **+25% page speed**, **+30% engagement**, **-20%** manual ops |
+| **Web Dev Intern** | DevBox Technologies, Jaipur 🇮🇳 | Shipped **5+ client sites**, squashed **30+ bugs** |
+| **Data Science Intern** | Psyliq, Remote | Dashboards that boosted reporting efficiency **+30%** |
+
+</details>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🏰 Boss Fights: Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤟 ISL Real-Time Converter
+**Boss level:** 🏆 *SIH 2nd Prize*
+
+Real-time sign language to **text and speech**.
+
+```text
+ACCURACY  ████████████████████ 94.8%
+SPEED     30+ FPS on edge devices
+WEAPONS   Python · OpenCV · Keras CNN
+```
+
+[⚔️ **View Code**](https://github.com/palakpk954/ISL-Converter-)
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ AWS Auto-Scaling Inference
+**Boss level:** ⚙️ *Cloud Automation*
+
+Boto3 scales EC2 workers with video load.
+
+```text
+COST CUT  █████████████░░░░░░░ -65%
+UPTIME    99.9% with auto failover
+WEAPONS   AWS · Boto3 · CloudWatch
+```
+
+[⚔️ **View Code**](https://github.com/palakpk954/AWS-automation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Placement Helper: "You Can"
+**Boss level:** 🌐 *Live in production*
+
+Interview-prep hub for engineering students.
+
+```text
+USERS     Hundreds of students
+TOPICS    Java · DSA · OS · DBMS · SysDesign
+WEAPONS   JavaScript · REST · Render
+```
+
+[🚀 **Live Demo**](https://placement-helper-you-can-1.onrender.com/) · [⚔️ **Code**](https://github.com/palakpk954/Placement_Helper-You_Can-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌧️ Landslide Early-Warning
+**Boss level:** 🥇 *Regional Hackathon Top 10*
+
+Rainfall-triggered evacuation alerts on a map.
+
+```text
+MODE      Offline-first PWA
+MAPS      Leaflet + GeoJSON overlays
+WEAPONS   JavaScript · Service Workers
+```
+
+[⚔️ **View Code**](https://github.com/palakpk954/regional-risk-project)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🚚 **Side quest:** [Transport and Logistics Management System](https://github.com/palakpk954/transport_management): Django, ACID bookings, dispatch scheduling
+
+</div>
+
+### 🧬 Boss mechanics: how the auto-scaler thinks
 
 ```mermaid
 flowchart LR
     A[📹 Video Feed] --> B[(Inference Queue)]
     B --> C{{🐍 Boto3 Poller}}
-    C -->|queue depth up| D[⬆️ Scale Out EC2 ASG]
+    C -->|queue depth rises| D[⬆️ Scale Out ASG]
     C -->|idle window| E[⬇️ Scale In to Zero]
-    D --> F[🧠 CNN Inference Workers]
-    F --> G[📊 CloudWatch Alarms]
+    D --> F[🧠 CNN Workers]
+    F --> G[📊 CloudWatch]
     G -->|CPU above 70%| C
     style C fill:#7C3AED,color:#fff,stroke:#5B21B6
     style F fill:#0EA5E9,color:#fff,stroke:#0369A1
     style E fill:#10B981,color:#fff,stroke:#047857
 ```
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<!-- ===================== JOURNEY ===================== -->
-## 🛤️ The Journey
+## 🏆 Achievements Unlocked
 
-```mermaid
-flowchart LR
-    A["🌱 2023-24<br/>Foundations<br/>Data Science, Marketing,<br/>GDSC, AWS Cloud Club"] --> B["🔨 2024-25<br/>Building and Shipping<br/>SIH 2nd Place, NECTA,<br/>AkooBooks, SheFi NYC"]
-    B --> C["👑 2025-26<br/>Leading at Scale<br/>VP IAESTE, 7 Certs,<br/>HPE R&D Offer"]
-    style A fill:#0EA5E9,color:#fff,stroke:#0369A1
-    style B fill:#7C3AED,color:#fff,stroke:#5B21B6
-    style C fill:#F59E0B,color:#fff,stroke:#B45309
-```
+<div align="center">
 
-<details>
-<summary><b>💼 Work experience: measurable impact (click to expand)</b></summary>
-<br/>
+| | | |
+|:---:|:---:|:---:|
+| 🥈 **SIH 2nd Rank**<br/><sub>300+ national teams</sub> | 💰 **HPE R&D Offer**<br/><sub>17.5 LPA, Bengaluru</sub> | 💼 **HCL Tech Offer**<br/><sub>Java Developer</sub> |
+| ☁️ **AWS x3 Certified**<br/><sub>SA · Developer · Practitioner</sub> | ☕ **Oracle Java 21**<br/><sub>1Z0-830</sub> | 📊 **MS Fabric DE**<br/><sub>Data Engineer Associate</sub> |
+| 🛠️ **ServiceNow CIS**<br/><sub>Data Foundation</sub> | 🌐 **JNCIA-Junos**<br/><sub>HPE Juniper</sub> | 🗽 **SheFi Scholar**<br/><sub>Brooklyn, NYC</sub> |
+| 🎓 **Amazon ML Summer School 2026** | 🔷 **McKinsey Forward**<br/><sub>Alumna</sub> | 🌟 **LinkedIn 4x Top Voice**<br/><sub>11.8k followers</sub> |
 
-| Role | Where | Impact |
-|---|---|---|
-| **Full Stack Web Dev Intern** | NECTA, Tanzania 🇹🇿 | Rebuilt .NET billing module: **-40% invoice time**, fixed discrepancies across **5,000+ records** |
-| **Backend and Data Eng. Intern** | AkooBooks Audio, Ghana 🇬🇭 | **+25% page speed**, **+30% engagement**, **-20%** manual ops via Python pipelines |
-| **Web Dev Intern** | DevBox Technologies, Jaipur 🇮🇳 | Shipped **5+ client sites**, fixed **30+** cross-browser and integration bugs |
-| **Data Science Intern** | Psyliq, Remote | Pandas/Matplotlib dashboards: **+30%** reporting efficiency |
-
-</details>
+</div>
 
 <details>
-<summary><b>🎖️ Certifications: 7x certified (click to expand)</b></summary>
+<summary><b>👑 Guild leadership</b></summary>
 <br/>
 
-- ☁️ AWS Certified **Solutions Architect – Associate**
-- ☁️ AWS Certified **Developer – Associate**
-- ☁️ AWS Certified **Cloud Practitioner**
-- ☕ Oracle Certified Professional: **Java SE 21**
-- 📊 Microsoft Certified: **Fabric Data Engineer Associate**
-- 🛠️ ServiceNow **Certified Implementation Specialist** (CIS – Data Foundation)
-- 🌐 **JNCIA-Junos** (HPE Juniper Networks)
-
-**Plus:** 4x AWS Badges · Amazon ML Summer School 2026 · McKinsey Forward · Flipkart GRID R1 · SheFi Scholar (NYC)
-
-</details>
-
-<details>
-<summary><b>👑 Leadership and community (click to expand)</b></summary>
-<br/>
-
-- **Vice President, IAESTE LC JECRC**: 46+ team, 29 global interns, 36+ offers released
+- **Vice President, IAESTE LC JECRC**: 46+ team, 29 global interns hosted, 36+ offers released
 - **Management Lead, AWS Cloud Club JU**: university-wide cloud bootcamps
 - **Tech Masters India**: national community lead
 - **Founder, Brify**: tech freelancing for small businesses
-- **LinkedIn 4x Top Voice**: 11.8k+ followers, 177K+ impressions
-- **Open Source**: GSSoC'24 and SSoC'25 contributor
+- **Open source**: GSSoC'24 and SSoC'25 contributor
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Analytics
+## 📈 Battle Stats
 
 <div align="center">
 
@@ -261,39 +260,70 @@ flowchart LR
 
 </div>
 
-### 🧩 Problem solving
+### 🧩 Codolio coding profile
 
 <div align="center">
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🔥 Max Streak | ⭐ LeetCode Rating |
-|:---:|:---:|:---:|:---:|:---:|
-| **320** | **415** | **104** | **80 days** | **1500** |
+<a href="https://codolio.com/profile/Palak954">
+  <img src="https://codolio.com/api/og/Palak954" width="85%" alt="Palak954 Codolio profile card"/>
+</a>
+
+<br/>
+
+<a href="https://codolio.com/profile/Palak954"><img src="https://img.shields.io/badge/🔗_View_Full_Codolio_Profile-Palak954-F59E0B?style=for-the-badge&labelColor=0b1020"/></a>
 
 </div>
 
----
+### 🧮 DSA difficulty breakdown
 
-<!-- ===================== QUOTE ===================== -->
-## 💭 The part people skip
+```text
+Easy    ████████░░░░░░░░░░░░  320  (38%)
+Medium  ██████████░░░░░░░░░░  415  (49%)
+Hard    ███░░░░░░░░░░░░░░░░░  104  (13%)
+        ─────────────────────────────────
+TOTAL   839 solved · 264 active days · LeetCode rating 1500
+```
 
-> *"I was rejected by multiple companies before I was placed. I didn't stop. I practiced more, built more, and applied again. HPE and HCL Tech were the outcome."*
-
----
-
-<!-- ===================== CONTACT ===================== -->
-## 🤝 Let's Build Something Extraordinary
-
-I'm open to **engineering roles, technical talks, open-source collabs, and student mentorship.**
+### 🐍 Contribution snake
 
 <div align="center">
 
-<a href="https://palakkumari-er.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/palakkumari0604/"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge"/></a>
-<a href="https://codolio.com/profile/Palak954"><img src="https://img.shields.io/badge/🧩_Codolio-F59E0B?style=for-the-badge"/></a>
-<a href="mailto:palakkumari1232604@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palakpk954/palakpk954/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palakpk954/palakpk954/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/palakpk954/palakpk954/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 💀 The Hidden Level
+
+```diff
+- Rejected by multiple companies.
+- Failed contest submissions. Late-night debugging sessions nobody saw.
++ Practiced more. Built more. Applied again.
++ Outcome: HPE R&D and HCL Tech.
+```
+
+> *Technical resilience is the most important skill an engineer can possess.*
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 📡 Ready Player Two?
+
+I'm open to **engineering roles, tech talks, open-source collabs, and student mentorship.**
+
+<div align="center">
+
+<a href="https://palakkumari-er.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge&labelColor=0b1020"/></a>
+<a href="https://www.linkedin.com/in/palakkumari0604/"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&labelColor=0b1020"/></a>
+<a href="https://codolio.com/profile/Palak954"><img src="https://img.shields.io/badge/🧩_Codolio-F59E0B?style=for-the-badge&labelColor=0b1020"/></a>
+<a href="mailto:palakkumari1232604@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&labelColor=0b1020"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&height=30&lines=GAME+OVER...+or+is+it%3F+%F0%9F%8E%AE;Press+START+to+collaborate+%E2%9C%A8" alt="footer animation"/>
 
 </div>
